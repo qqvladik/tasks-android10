@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ProjectsAndroidStudio/2022study/task03view/app/src/main/res/drawable/separator2.xml" value="0.225" />
+        <entry key="..\:/ProjectsAndroidStudio/2022study/task03view/app/src/main/res/layout/activity_columbia.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProjectsAndroidStudio/2022study/task03view/app/src/main/res/layout/activity_denmark.xml" value="0.20854700854700856" />
+        <entry key="..\:/ProjectsAndroidStudio/2022study/task03view/app/src/main/res/layout/activity_italy.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProjectsAndroidStudio/2022study/task03view/app/src/main/res/layout/activity_madagascar.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProjectsAndroidStudio/2022study/task03view/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/ProjectsAndroidStudio/2022study/task03view/app/src/main/res/layout/activity_poland.xml" value="0.253125" />
+        <entry key="..\:/ProjectsAndroidStudio/2022study/task03view/app/src/main/res/layout/activity_subtask1.xml" value="0.2269021739130435" />
+        <entry key="..\:/ProjectsAndroidStudio/2022study/task03view/app/src/main/res/layout/activity_subtask2.xml" value="0.2269021739130435" />
+        <entry key="..\:/ProjectsAndroidStudio/2022study/task03view/app/src/main/res/layout/activity_switzerland.xml" value="0.29683698296836986" />
+        <entry key="..\:/ProjectsAndroidStudio/2022study/task03view/app/src/main/res/layout/activity_thailand.xml" value="0.20854700854700856" />
+        <entry key="..\:/ProjectsAndroidStudio/2022study/task03view/app/src/main/res/layout/austria_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/study/android-trainee-aston/android-trainee10/task03view/app/src/main/res/layout/activity_austria.xml" value="0.2269021739130435" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

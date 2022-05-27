@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">task03view</string>
+    <string name="button_subtask1">task 03.1</string>
+    <string name="button_subtask2">task 03.2</string>
+    <string name="edittext_uri">Put picture\'s link</string>
+    <string name="button_upload">Upload!</string>
+    <string name="image_description">Picture from link</string>
+    <string name="edittext_default_text">https://picsum.photos/id/237/500/300</string>
+    <string-array name="countries_spinner">
+        <item>Austria</item>
+        <item>Poland</item>
+        <item>Italy</item>
+        <item>Colombia</item>
+        <item>Madagascar</item>
+        <item>Thailand</item>
+        <item>Denmark</item>
+        <item>Switzerland</item>
+    </string-array>
+</resources>
