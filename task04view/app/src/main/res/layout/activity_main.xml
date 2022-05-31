@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="top"
+    tools:context=".MainActivity"
+    android:padding="10dp">
+
+    <by.mankevich.task04view.ClockView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:arrowSecondLengthPercent="75"
+        app:arrowMinuteLengthPercent="60"
+        app:arrowHourLengthPercent="40"
+        app:arrowSecondColor="#FA2121"
+        app:arrowMinuteColor="#F7FF10"
+        app:arrowHourColor="#77DDF6"
+        app:arrowSecondWidth="4dp"
+        app:arrowMinuteWidth="7dp"
+        app:arrowHourWidth="10dp"
+        />
+
+</LinearLayout>

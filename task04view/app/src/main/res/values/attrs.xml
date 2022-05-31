@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClockView">
+        <attr name="arrowSecondLengthPercent" format="integer"/>
+        <attr name="arrowMinuteLengthPercent" format="integer"/>
+        <attr name="arrowHourLengthPercent" format="integer"/>
+        <attr name="arrowSecondWidth" format="dimension"/>
+        <attr name="arrowMinuteWidth" format="dimension"/>
+        <attr name="arrowHourWidth" format="dimension"/>
+        <attr name="arrowSecondColor" format="color"/>
+        <attr name="arrowMinuteColor" format="color"/>
+        <attr name="arrowHourColor" format="color"/>
+    </declare-styleable>
+</resources>
