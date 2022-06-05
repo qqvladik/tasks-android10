@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".EditContactFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/edit_padding"
+        >
+
+    <TextView
+        style="@style/StyleTextWhenEditContact"
+        android:layout_marginBottom="@dimen/edit_margin"
+        android:text="@string/text_name_edit" />
+
+    <EditText
+        android:id="@+id/edit_name"
+        style="@style/StyleTextWhenEditContact"
+        android:layout_marginBottom="@dimen/edit_padding"
+        android:autofillHints="name"
+        android:hint="@string/text_name_edit"
+        android:inputType="textPersonName" />
+
+    <TextView
+        style="@style/StyleTextWhenEditContact"
+        android:layout_marginBottom="@dimen/edit_margin"
+        android:text="@string/text_surname_edit" />
+
+    <EditText
+        android:id="@+id/edit_surname"
+        style="@style/StyleTextWhenEditContact"
+        android:layout_marginBottom="@dimen/edit_padding"
+        android:autofillHints="name"
+        android:hint="@string/text_surname_edit"
+        android:inputType="textPersonName" />
+
+    <TextView
+        style="@style/StyleTextWhenEditContact"
+        android:layout_marginBottom="@dimen/edit_margin"
+        android:text="@string/text_number_edit" />
+
+    <EditText
+        android:id="@+id/edit_number"
+        style="@style/StyleTextWhenEditContact"
+        android:layout_marginBottom="@dimen/edit_padding"
+        android:autofillHints="phone"
+        android:hint="@string/text_number_edit"
+        android:inputType="phone" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <Button
+            android:id="@+id/button_save"
+            android:text="@string/button_save_text"
+            style="@style/StyleButtonWhenEditContact"
+            />
+
+        <Button
+            android:id="@+id/button_cancel"
+            android:text="@string/button_cancel_text"
+            style="@style/StyleButtonWhenEditContact"
+            />
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>
