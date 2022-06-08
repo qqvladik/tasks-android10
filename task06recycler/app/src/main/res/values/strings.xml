@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">task06recycler</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="img_button_edit">Edit</string>
+    <string name="text_name_edit">Name</string>
+    <string name="text_surname_edit">Surname</string>
+    <string name="text_number_edit">Phone number</string>
+    <string name="button_save_text">SAVE</string>
+    <string name="button_cancel_text">CANCEL</string>
+    <string name="item_add_text">Add</string>
+    <string name="image_contact_card_text">Contact image</string>
+    <string name="item_search_text">Search</string>
+    <string name="text_photo_edit">Photo url</string>
+</resources>
